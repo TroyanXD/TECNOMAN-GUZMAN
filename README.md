@@ -1,2 +1,2 @@
-# TECNOMAN | GUZMAN
+TECNOMAN | GUZMAN
 Tienda Online en proceso...
